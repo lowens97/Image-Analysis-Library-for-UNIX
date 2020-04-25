@@ -1,0 +1,5 @@
+Bugs:
+
+1. resize_img does not work
+2. Some methods may not be working (don't know their actual output so difficult to judge)
+3. No else case in DisplayFFTImage.
